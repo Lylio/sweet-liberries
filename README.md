@@ -1,6 +1,5 @@
 ![](https://github.com/Lylio/image-repo/blob/master/logos/java.png?raw=true)
 ![](https://github.com/Lylio/image-repo/blob/master/logos/lib.png?raw=true)
-![](https://github.com/Lylio/image-repo/blob/master/logos/leafy.png?raw=true)
 
 # Sweet Liberries
 
