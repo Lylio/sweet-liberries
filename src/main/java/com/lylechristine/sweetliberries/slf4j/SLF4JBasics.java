@@ -3,9 +3,9 @@ package com.lylechristine.sweetliberries.slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class SLF4J {
+public class SLF4JBasics {
 
-    private static Logger LOGGER = LoggerFactory.getLogger(SLF4J.class);
+    private static Logger LOGGER = LoggerFactory.getLogger(SLF4JBasics.class);
 
     public static void main(String[] args) {
 
